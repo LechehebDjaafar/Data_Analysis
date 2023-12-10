@@ -1,3 +1,14 @@
+# ----------------Info Developer-------------
+# -Last Name : Lecheheb
+# -First Name : Djaafar
+# -Country : Algeria
+# -age : 26
+# -Skills : Python - HTML - CSS - C
+# -instagram : @ddos_attack_co
+# ------------Fallowed Me for instagram-------
+
+
+
 import tkinter as tk
 import numpy as np
 import matplotlib.pyplot as plt
